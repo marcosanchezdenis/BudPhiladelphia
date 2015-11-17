@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Budweiser</string>
+    
+<string name="nombre_editar">NOMBRE</string>
+<string name="apellido_editar">APELLIDO</string>
+<string name="cedula_editar">CÉDULA</string>
+<string name="email_editar">E-MAIL</string>
+<string name="celular_editar">CELULAR</string>
+<string name="direccion_editar">DIRECCIÓN</string>
+<string name="fechanac_editar">FECHA DE NAC.</string>
+
+
+
+<string name="editar_bt">Editar Registro</string>
+
+<string name="actualizar_editar_bt">Actualizar</string>
+<string name="registrar_editar_bt">REGISTRAR</string>
+<string name="registrar_file_bt">EXPORTAR</string>
+<string name="reset_editar_bt">RESTABLECER</string>
+</resources>
